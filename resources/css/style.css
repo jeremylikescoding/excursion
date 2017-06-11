@@ -20,3 +20,7 @@ p {
   font-size: 21px;
   color: Gray;
 }
+.copy p {
+  text-align: right;
+  color: Gray;
+}
